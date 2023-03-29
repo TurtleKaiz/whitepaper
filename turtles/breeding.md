@@ -4,7 +4,7 @@ order: 90
 icon: "/static/egg.png"
 ---
 
-# Ratings
+# Breeding
 
 Turtles can fall under one of the following 4 classes.
 

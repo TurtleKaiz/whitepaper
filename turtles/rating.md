@@ -13,10 +13,11 @@ Genesis and Special classes will be minted to specific users for a specific time
 
 RATE   | OBTAINING |
 :---   |  ---:
+World Class| Experiance  
 Challenger| Experiance  
-Crusader| Experiance 
+GT Shell| Experiance 
 Racer| Experiance   
 Pro| Beering or Experiance  
-Junior| Beering or Experiance  
 Amateur| Beering or Experiance  
-NewBorn| Beering
+Junior| Beering or Experiance  
+Stock Turtle| Beering
